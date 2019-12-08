@@ -1,4 +1,5 @@
 /*
+  Funciones para crear observables
   Function Range:
   Nos crea un observable que emite una secuencia de números en base a un rango.
   Por defecto son sincronos pero se pueden transformar en asincronos utilizando un asyncScheduler.

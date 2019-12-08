@@ -1,3 +1,5 @@
+// creacion de observables nativos
+
 import { Observable, Observer  } from 'rxjs'
 
 const observer: Observer<any> = {

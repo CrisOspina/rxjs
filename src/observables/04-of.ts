@@ -1,4 +1,5 @@
 /* 
+  Funciones para crear observables
   of
   - Function que nos permite crear observables en base a un estado de elementos.
   - Convierte el argumento en una secuencia de valores que van hacer emitidos por el observable de manera sincrona.

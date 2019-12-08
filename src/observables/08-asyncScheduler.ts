@@ -1,4 +1,5 @@
 /*
+  Funciones para crear observables
   asyncScheduler
   - No crea un observable, crea una suscripción
   - Nos permite crear un setInterval o un setTimeout utilizando una suscripción

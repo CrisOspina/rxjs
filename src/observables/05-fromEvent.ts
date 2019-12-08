@@ -1,4 +1,5 @@
 /* 
+  Funciones para crear observables
   fromEvent<Event>(document, 'event')
   - Nos permite crear observables en base a un event target.
 */

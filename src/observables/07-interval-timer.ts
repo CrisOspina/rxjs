@@ -1,4 +1,5 @@
 /*
+  Funciones para crear observables
   Funciones que trabajan con intervalos de tiempo:
 
   interval(1000)

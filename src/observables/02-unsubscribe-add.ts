@@ -1,4 +1,5 @@
 /* 
+  subscribe and unsubscribe
   subscribe
   - Los valores de los observables se imprimen a través de los subscribe() y se detienen con los unsubscribe()
 */

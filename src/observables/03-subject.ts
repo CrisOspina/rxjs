@@ -1,4 +1,4 @@
-/* 
+/*
   subject
   - Tipo especial de observable
   - Casteo múltiple
