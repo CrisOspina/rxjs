@@ -62,3 +62,11 @@ primero(),siguiente(),hayMas() y elementoActual()
 
 ### Programación Funcional
 - Tener funciones con tareas específicas que reciban argumentos y no muten la información
+
+## Funciones para crear Observables
+- of
+- from
+- fromEvent
+- range
+- interval and timer
+- asyncScheduler
