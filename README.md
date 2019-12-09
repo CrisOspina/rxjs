@@ -20,5 +20,5 @@ npm start
 npm start
 ```
 
-### Resumen sobre programación reactiva
+## Resumen sobre programación reactiva
 `src/README.md`
