@@ -70,3 +70,25 @@ primero(),siguiente(),hayMas() y elementoActual()
 - range
 - interval and timer
 - asyncScheduler
+
+## Operadores usados regularmente
+- map
+- pluck
+- mapTo
+- filter
+- tap
+- reduce
+- scan
+
+## Operadores no tan comunes
+- take
+- first
+- takeWhile
+- takeUntil
+- skip
+- distinct
+
+## Operaciones CRUD - Ajax con rxjs
+- ajax-catchError
+- getJSON
+- POST-PUT-DELETE - ajax
